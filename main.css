@@ -50,7 +50,6 @@ body {
 .repuestos {
     background: white;
     height: auto;
-    padding: 10px 150px;
     text-align: center;
     padding-bottom: 60px;
 }
@@ -98,7 +97,6 @@ body {
     height: 560px;
     background: #000000ad;
     position: absolute;
-    padding: 180px 210px;
     text-align: center;
 }
 
