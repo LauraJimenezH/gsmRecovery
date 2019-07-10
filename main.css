@@ -87,6 +87,21 @@ body {
     color: white;
 }
 
+.navbar-toggler {
+    border: 1px solid white !important;
+    padding: 2px !important;
+    margin-right: 20px;
+}
+
+.navbar-toggler-icon {
+    display: block !important;
+    width: 1.5em;
+    margin: 5px;
+    vertical-align: middle;
+    border: 1px solid white;
+    height: 0px !important;
+}
+
 .contactanos hr {
     width: 100px;
     background: white;
@@ -236,7 +251,7 @@ nav {
     text-decoration: none !important;
     list-style: none;
     display: inline;
-    padding: 22px 30px;
+    padding: 5px 30px;
     cursor: pointer;
     transition: all 0.3s;
 }
@@ -252,7 +267,7 @@ nav {
 
 .logo img {
     width: 75px;
-    margin-left: 50px;
+    margin-left: 20px;
     margin-top: -8px;
 }
 
@@ -326,6 +341,17 @@ nav {
     .testimonials .opg {
         padding: 180px 210px;
     }
+
+    .navbar-nav .nav-item {
+        padding: 22px 30px;
+    }
+
+    .navbar-nav {
+        position: absolute;
+        right: 30px;
+    }
+
+    
 }
 
 @media only screen and (min-width: 600px) {
