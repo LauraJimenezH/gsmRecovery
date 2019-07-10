@@ -138,6 +138,10 @@ body {
     display: none;
 }
 
+h1 {
+    font-size: 35px !important;
+}
+
 .section-services div {
     max-width: 450px;
     display: inline-block;
