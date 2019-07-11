@@ -332,7 +332,7 @@ nav {
     color: #fff;
 }
 
-@media only screen and (min-width: 1370px) {
+@media only screen and (min-width: 1200px) {
     .iphone-servicios {
         margin-top: -25px;
         width: 500px;
