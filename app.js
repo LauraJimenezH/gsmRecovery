@@ -3,4 +3,8 @@
         e.preventDefault();
         $(".chat-content").toggleClass('openChat')
     })
+
+    setTimeout(() => {
+        $('.splash').css('display', 'none');
+    }, 2000);
 // })
