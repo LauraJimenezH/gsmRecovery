@@ -17,6 +17,6 @@
 // })
     $('#textWsp').keypress(function() {
         let textWsp = document.getElementById('textWsp')
-        $('.btn-enviar-wsp').attr('href',`https://api.whatsapp.com/send?phone=51940474586&text=${textWsp.value}`)
+        $('.btn-enviar-wsp').attr('href',`https://api.whatsapp.com/send?phone=51943198583&text=${textWsp.value}`)
 
     })
