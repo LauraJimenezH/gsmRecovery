@@ -317,16 +317,16 @@ nav {
     margin: 0px;
     padding: 0px;
     position: fixed;
-    max-width: 340px;
+    max-width: 233px;
     height: auto;
     z-index: 9999;
     width: 100%;
     bottom: 0px;
-    right: 193px;
+    right: 300px;
 }
 
 .wsp-button {
-    width: 69%;
+    width: 100%;
     margin: 0;
     cursor: pointer;
     user-select: none;
@@ -356,7 +356,7 @@ nav {
     margin-top: -30px;
     position: absolute;
     z-index: -1;
-    color: white;
+    color: white !important;
     text-decoration: none;
     text-align: center;
 }
